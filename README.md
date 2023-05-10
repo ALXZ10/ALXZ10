@@ -1,4 +1,4 @@
-# Hola, mi nombre es ALexis Zahir García 🖖
+# Hola, mi nombre es Alexis Zahir García 🖖
 ### ¡Programador Análitico por ahora!.
 
 Soy un Ingeniero en TI, recién egresado.

@@ -1,6 +1,6 @@
 # 💫 About Me:
-🧑‍🎓 Soy Ingeniero en TI, recién egresado. <br>
-👨‍💼 Actualmente estoy laborando como Programador Analítico. <br>
+🧑‍🎓 Ingeniero en TI, logrando conseguir mayor experincia laboral. <br>
+👨‍💼 Actualmente estoy laborando como Desarrollador de Software en WebDesk México. <br>
 📚 Me encuentro aprendiendo conceptos nuevos. <br>
 💻  Me inclino más en la programación por el BackEnd.
 
